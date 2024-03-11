@@ -1,0 +1,25 @@
+.number{
+    width: 70%;
+}
+.number button{
+    background-color: aqua;
+    height: 10vh;
+    width: 65px;
+}
+.mmm{
+    width: 62%;
+    display: flex;
+    justify-content: space-between;
+}
+.mmm p{
+    color: white;
+}
+.decor{
+    background-color: tan;
+    width: 35%;
+    margin: auto;
+    
+}
+.carry{
+    margin-left: 50px;
+}
